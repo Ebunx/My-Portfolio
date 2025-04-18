@@ -93,7 +93,7 @@ export default function Hero() {
               
                 className="px-6 py-3 bg-green-500 rounded-full font-medium hover:bg-sky-600 transition-colors"
               >
-                LinkedIn
+                Contact Me
               </div>
               </Link>
 
