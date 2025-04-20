@@ -87,23 +87,23 @@ export default function Hero() {
             </p>
 
             <div className="flex gap-4 justify-center">
-            <Link className="cursor-pointer"    href="/Footer"   target="_blank"
+            <a className="cursor-pointer"    href="#footer"   target="_blank"
             rel="noopener noreferrer">
               <div 
               
                 className="px-6 py-3 bg-green-500 rounded-full font-medium hover:bg-sky-600 transition-colors"
               >
-                Contact Me
+               Contact Me
               </div>
-              </Link>
+              </a>
 
-              <Link href="/Portfolio" className="cursor-pointer">
+              <a href="#portfolio" className="cursor-pointer">
               <div 
                 className="px-6 py-3 border-white/20 rounded-full font-medium hover:bg-white/10 transition-colors"
               >
                 View Work
               </div>
-              </Link>
+              </a>
             </div>
           </motion.div>
           </div>
