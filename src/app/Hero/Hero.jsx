@@ -87,7 +87,7 @@ export default function Hero() {
             </p>
 
             <div className="flex gap-4 justify-center">
-            <a className="cursor-pointer"    href="#footer"   target="_blank"
+            <a className="cursor-pointer"    href="#contact"   target="_blank"
             rel="noopener noreferrer">
               <div 
               
