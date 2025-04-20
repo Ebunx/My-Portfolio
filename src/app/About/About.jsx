@@ -63,7 +63,7 @@ const About = () => {
                     <ul className="text-white/50 space-y-1 text-sm">
                       <li>Node.js</li>
                       <li>PostgreSQL</li>
-                      <li>MongpDB</li>
+                      <li>MongoDB</li>
                       <li>Framer Motion</li>
 
                     </ul>
