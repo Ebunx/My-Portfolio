@@ -85,27 +85,27 @@ export default function Hero() {
             <p className="text-xl text-white/80 max-w-lg mx-auto leading-relaxed mb-6">
               I am a fullstack developer focusing on creating websites that provide users with the best experience.
             </p>
+          </motion.div>
+
 
             <div className="flex gap-4 justify-center">
-            <Link className="cursor-pointer"    href="/Footer"   target="_blank"
+           
+            <a className="cursor-pointer px-6 py-3 bg-green-500 rounded-full font-medium hover:bg-sky-600 transition-colors"    href="#contact"   target="_blank"
             rel="noopener noreferrer">
-              <div 
-              
-                className="px-6 py-3 bg-green-500 rounded-full font-medium hover:bg-sky-600 transition-colors"
-              >
-                LinkedIn
-              </div>
-              </Link>
+             
+             Contact Me       
+             
+              </a>
+      
 
-              <Link href="/Portfolio" className="cursor-pointer">
+              <a href="#portfolio" className="cursor-pointer">
               <div 
                 className="px-6 py-3 border-white/20 rounded-full font-medium hover:bg-white/10 transition-colors"
               >
                 View Work
               </div>
-              </Link>
+              </a>
             </div>
-          </motion.div>
           </div>
         </div>
 

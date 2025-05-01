@@ -27,6 +27,15 @@ const projects = [
   //   type:"fullstack"
   // },
   {
+    title:"Ecommerce Store",
+    desc: "A fully responsive, feature-rich eCommerce platform built with React and Tailwind CSS. This project showcases dynamic, user-friendly shopping experiences, from browsing products to completing purchases.",
+    devstack: "React, Tailwind, React-toastify",
+    link: "https://ecommerce-website-w3p2.vercel.app/",
+    git:"https://github.com/ReactLlord/Ecommerce-website/blob/main/package.json",
+    src: "/Ecommerce.png",
+    type:"frontend"
+  },
+  {
     title:"Real Estate Landing Page",
     desc: "Real Estate Landing Page is a modern, responsive web page designed to showcase property listings and attract potential buyers or renters. Built with React, it features a clean layout, smooth scroll animations, CTA sections, and property highlights to ensure a seamless browsing experience. The design emphasizes clarity and conversion, making it perfect for real estate agencies or personal portfolio projects..",
     devstack: " React, Tailwind, Framer Motion",
@@ -62,6 +71,7 @@ const projects = [
     src: "/Notes-App.png",
     type:"frontend"
   },
+ 
 ]
 
 const Portfolio = () => {
@@ -115,7 +125,7 @@ const Portfolio = () => {
                         <p className="text-emerald-400/60 font-medium mb-4 capitalize">Type: {project.type}</p>
 
                         <div className="flex justify-start items-center space-x-4">
-                        <a href={project.link} className='text-emerald-400 hover:text-blue-300 transition-colors'>
+                        <a href={project.link} className='text-emerald-400 hover:text-blue-300 transition-colors' target="_blank" >
                           <HiOutlineExternalLink/>
                         </a>
 
