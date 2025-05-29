@@ -27,6 +27,15 @@ const projects = [
   //   type:"fullstack"
   // },
   {
+    title:"Travel  Buddy",
+    desc: "Travel Buddy is a full-stack travel companion web application designed to help users discover new destinations, plan personalized trips, and track visited locations",
+    devstack: "React, Tailwind, MongoDB, Express, Nodejs",
+    link: "https://travelbuddy-mauve.vercel.app/",
+    git:"https://github.com/ReactLlord/Travelbuddy",
+    src: "/travelbuddy.png",
+    type:"FullStack"
+  },
+  {
     title:"Ecommerce Store",
     desc: "A fully responsive, feature-rich eCommerce platform built with React and Tailwind CSS. This project showcases dynamic, user-friendly shopping experiences, from browsing products to completing purchases.",
     devstack: "React, Tailwind, React-toastify",

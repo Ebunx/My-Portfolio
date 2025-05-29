@@ -88,7 +88,7 @@ export default function Hero() {
           </motion.div>
 
 
-            <div className="flex gap-4 justify-center">
+            {/* <div className="flex gap-4 justify-center">
            
             <a className="cursor-pointer px-6 py-3 bg-green-500 rounded-full font-medium hover:bg-sky-600 transition-colors"    href="#contact"   target="_blank"
             rel="noopener noreferrer">
@@ -105,7 +105,8 @@ export default function Hero() {
                 View Work
               </div>
               </a>
-            </div>
+            </div> */}
+            
           </div>
         </div>
 
