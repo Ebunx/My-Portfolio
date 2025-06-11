@@ -26,13 +26,22 @@ const projects = [
   //   src: "proj1.jpg",
   //   type:"fullstack"
   // },
+  // {
+  //   title:"Travel  Buddy",
+  //   desc: "Travel Buddy is a full-stack travel companion web application designed to help users discover new destinations, plan personalized trips, and track visited locations",
+  //   devstack: "React, Tailwind, MongoDB, Express, Nodejs",
+  //   link: "https://travelbuddy-mauve.vercel.app/",
+  //   git:"https://github.com/ReactLlord/Travelbuddy",
+  //   src: "/travelbuddy.png",
+  //   type:"FullStack"
+  // },
   {
-    title:"Travel  Buddy",
-    desc: "Travel Buddy is a full-stack travel companion web application designed to help users discover new destinations, plan personalized trips, and track visited locations",
-    devstack: "React, Tailwind, MongoDB, Express, Nodejs",
-    link: "https://travelbuddy-mauve.vercel.app/",
-    git:"https://github.com/ReactLlord/Travelbuddy",
-    src: "/travelbuddy.png",
+    title:"Findash",
+    desc: "A dashboard for a fintech product that allows users to track their finances, investments, savings, and other related information. (Login with any email and password)",
+    devstack: "React, Typescript",
+    link: "https://find-ash.vercel.app/login",
+    git:"https://github.com/Ebunx/Travelbuddy",
+    src: "/findash.png",
     type:"FullStack"
   },
   {
@@ -40,7 +49,7 @@ const projects = [
     desc: "A fully responsive, feature-rich eCommerce platform built with React and Tailwind CSS. This project showcases dynamic, user-friendly shopping experiences, from browsing products to completing purchases.",
     devstack: "React, Tailwind, React-toastify",
     link: "https://ecommerce-website-w3p2.vercel.app/",
-    git:"https://github.com/ReactLlord/Ecommerce-website/blob/main/package.json",
+    git:"https://github.com/Ebunx/Ecommerce-website/blob/main/package.json",
     src: "/Ecommerce.png",
     type:"frontend"
   },
@@ -49,7 +58,7 @@ const projects = [
     desc: "Real Estate Landing Page is a modern, responsive web page designed to showcase property listings and attract potential buyers or renters. Built with React, it features a clean layout, smooth scroll animations, CTA sections, and property highlights to ensure a seamless browsing experience. The design emphasizes clarity and conversion, making it perfect for real estate agencies or personal portfolio projects..",
     devstack: " React, Tailwind, Framer Motion",
     link: "https://real-estate-landing-page-smoky-eta.vercel.app/",
-    git:"https://github.com/ReactLlord/Real-estate-landing-page",
+    git:"https://github.com/Ebunx/Real-estate-landing-page",
     src: "Real-estate-landingpage.png",
     type:"frontend"
   },
@@ -58,7 +67,7 @@ const projects = [
     desc: "Netflix Clone is a full-featured streaming platform replica built with React and Firebase, designed to mirror the sleek interface and functionality of Netflix. It includes user authentication, real-time database integration, responsive design, and dynamic movie listings fetched from the TMDB API. With smooth navigation, hover effects, and a clean UI, the app delivers an engaging streaming experience.",
     devstack: "NextJS, React, Tailwind, Firebase",
     link: "https://netflix-clone-omega-peach.vercel.app/",
-    git:"https://github.com/ReactLlord/NETFLIX-CLONE",
+    git:"https://github.com/Ebunx/NETFLIX-CLONE",
     src: "/Netflix-clone.png",
     type:"frontend"
   },
@@ -67,7 +76,7 @@ const projects = [
     desc: "CryptoPlace is a modern, React-powered crypto dashboard that delivers real-time market data, price tracking, and insights for top cryptocurrencies. Built with a sleek, responsive design, CryptoPlace offers a smooth user experience, live charts, and detailed coin information to help users stay informed and make smarter decisions in the ever-changing crypto world..",
     devstack: "React, Tailwind, Api",
     link: "https://cryptoplace-gilt.vercel.app/",
-    git:"#",
+    git:"https://github.com/Ebunx/Cryptoplace",
     src: "/crypto-app.png",
     type:"frontend"
   },
@@ -76,7 +85,7 @@ const projects = [
     desc: "Advanced Notes Taking Application.",
     devstack: "React, Tailwind, Typescript",
     link: "https://advanced-notes-app-mocha.vercel.app/",
-    git:"https://github.com/ReactLlord/Advanced-Notes-App",
+    git:"https://github.com/Ebunx/Advanced-Notes-App",
     src: "/Notes-App.png",
     type:"frontend"
   },

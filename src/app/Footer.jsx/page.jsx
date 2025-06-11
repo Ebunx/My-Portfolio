@@ -54,7 +54,7 @@ const Footer = () => {
                 </p>
 
                 <ul className="flex gap-5 flex-wrap">
-                    <a href="https://github.com/ReactLlord" 
+                    <a href="https://github.com/Ebunx" 
                     aria-label='GitHub'
                     className="text-gray-200 flex items-center justify-center w-10 h-10 rounded-full">
                         <AiFillGithub size={10}/>

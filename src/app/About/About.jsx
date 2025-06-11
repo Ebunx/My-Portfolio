@@ -28,9 +28,13 @@ const About = () => {
                 <br />
                 &nbsp;&nbsp;'Node.js',
                 <br />
-                &nbsp;&nbsp;'SQL',
+                &nbsp;&nbsp;'Nextjs',
                 <br />
                 &nbsp;&nbsp;'MongoDb'
+                <br />
+                &nbsp;&nbsp;'Render'
+                <br />
+                &nbsp;&nbsp;'Git'
                 <br />]
               </code>
             </div>
@@ -76,7 +80,7 @@ const About = () => {
                 <ul className="text-white/50 space-y-1 text-sm">
                   <li>Node.js</li>
                   <li>PostgreSQL</li>
-                  <li>MongpDB</li>
+                  <li>MongoDB</li>
                   <li>Framer Motion</li>
                 </ul>
               </div>
