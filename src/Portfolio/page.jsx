@@ -36,22 +36,22 @@ const projects = [
   //   type:"FullStack"
   // },
   {
+    title:"Esub",
+    desc: "A full-stack VTU web app for paying bills and handling subscriptions effortlessly.",
+    devstack: "React, Typescript, Nextjs, Api, Forebase, Framer Motion",
+    link: "https://esub.vercel.app/",
+    git:"https://github.com/Ebunx/Travelbuddy",
+    src: "/esub.png",
+    type:"FullStack"
+  },
+  {
     title:"Findash",
     desc: "A dashboard for a fintech product that allows users to track their finances, investments, savings, and other related information. (Login with any email and password)",
     devstack: "React, Typescript",
     link: "https://find-ash.vercel.app/login",
-    git:"https://github.com/Ebunx/Travelbuddy",
+    git:"https://github.com/Ebunx/Findash",
     src: "/findash.png",
     type:"FullStack"
-  },
-  {
-    title:"Ecommerce Store",
-    desc: "A fully responsive, feature-rich eCommerce platform built with React and Tailwind CSS. This project showcases dynamic, user-friendly shopping experiences, from browsing products to completing purchases.",
-    devstack: "React, Tailwind, React-toastify",
-    link: "https://ecommerce-website-w3p2.vercel.app/",
-    git:"https://github.com/Ebunx/Ecommerce-website/blob/main/package.json",
-    src: "/Ecommerce.png",
-    type:"frontend"
   },
   {
     title:"Real Estate Landing Page",
@@ -60,6 +60,15 @@ const projects = [
     link: "https://real-estate-landing-page-smoky-eta.vercel.app/",
     git:"https://github.com/Ebunx/Real-estate-landing-page",
     src: "Real-estate-landingpage.png",
+    type:"frontend"
+  },
+  {
+    title:"Ecommerce Store",
+    desc: "A fully responsive, feature-rich eCommerce platform built with React and Tailwind CSS. This project showcases dynamic, user-friendly shopping experiences, from browsing products to completing purchases.",
+    devstack: "React, Tailwind, React-toastify",
+    link: "https://ecommerce-website-w3p2.vercel.app/",
+    git:"https://github.com/Ebunx/Ecommerce-website/blob/main/package.json",
+    src: "/Ecommerce.png",
     type:"frontend"
   },
   {
